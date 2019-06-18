@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.borderColor {
+  border: 1px solid #dee2e6;
+}
+.activeBorderColor {
+  border: 2px solid #007bff;
+}
+.profileImage {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+}
+.imageFocus {
+  opacity: 0.2;
+}
+
+.profileImage .activeOpacity0 {
+  opacity: 1;
+}
+.profileImage .activeOpacity1 {
+  opacity: 1;
+}
+.profileImage .activeOpacity2 {
+  opacity: 1;
+}
+.profileImage .activeOpacity3 {
+  opacity: 1;
+}
+.profileImage .activeOpacity4 {
+  opacity: 1;
+}
+.profileImage .activeOpacity5 {
+  opacity: 1;
+}
+.profileImage .activeOpacity {
+  opacity: 1;
+}

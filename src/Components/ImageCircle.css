@@ -1,0 +1,30 @@
+.profileImage {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  cursor: pointer;
+}
+.profileImage .imageFocus {
+  opacity: 0.6;
+}
+.profileImage .activeOpacity0 {
+  opacity: 1;
+}
+.profileImage .activeOpacity1 {
+  opacity: 1;
+}
+.profileImage .activeOpacity2 {
+  opacity: 1;
+}
+.profileImage .activeOpacity3 {
+  opacity: 1;
+}
+.profileImage .activeOpacity4 {
+  opacity: 1;
+}
+.profileImage .activeOpacity5 {
+  opacity: 1;
+}
+.profileImage .activeOpacity {
+  opacity: 1;
+}
