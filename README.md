@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## See the example below
+Open [https://simple-react-slider-by-rajan.herokuapp.com/](https://simple-react-slider-by-rajan.herokuapp.com/) to view it in the browser.
+
 ## Available Scripts
 
 In the project directory, you can run:
